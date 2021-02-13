@@ -11,9 +11,9 @@ Between Linux and other OSes such as Windows and OS X, there is a slight discrep
 |Click & Release `b` | aB | aB|
 |Release `CapsLock` | aB | aB|
 |Click & Release `c` | aBC | aBC |
-|Click `Capslock` | aBC | aBC |
+|Click `CapsLock` | aBC | aBC |
 |Click & Release `d` | aBCd | aBCD|
-|Release `capslock` | aBCd | aBCD|
+|Release `CapsLock` | aBCd | aBCD|
 |Click & Release `e` | aBCde | aBCDe |
 
 Caveat: This might not be true in all Linux distros. My experience has been with PopOS.
